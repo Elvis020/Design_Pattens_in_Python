@@ -4,6 +4,7 @@
  * Gang of 4 published the first book on DP in 1994
  * DP falls into 3 basic categories
    * Creational(Object creation)
+     * Factory(Simple,Full Factory and Abstract), Builder, Prototype, Singleton
    * Structural(Object Composition)
    * Behaviour(Object interaction and responsibility)
  * SOLID
